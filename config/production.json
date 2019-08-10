@@ -1,0 +1,6 @@
+{
+  "name": "Dustbin",
+  "mail": {
+    "host": "prod-dev-server"
+  }
+}
